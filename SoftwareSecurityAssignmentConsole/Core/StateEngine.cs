@@ -7,7 +7,7 @@
 // </summary>
 // --------------------------------------------------------------------------------------------------------------------
 
-namespace SoftwareSecurityAssignmentConsole
+namespace SoftwareSecurityAssignmentConsole.Core
 {
     using System;
     using System.Collections.Generic;

@@ -6,7 +6,6 @@ namespace SoftwareSecurityAssignmentConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
         }
     }
 }
