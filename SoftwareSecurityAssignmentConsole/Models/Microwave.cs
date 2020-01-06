@@ -1,6 +1,6 @@
 using System.ComponentModel;
 
-namespace Models
+namespace SoftwareSecurtityAssignmentConsole.Models
 {
     /// <inheritdoc />
     /// <summary>

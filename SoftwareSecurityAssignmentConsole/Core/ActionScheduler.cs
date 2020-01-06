@@ -1,3 +1,5 @@
+using SoftwareSecurityAssignmentConsole.Interfaces;
+
 namespace SoftwareSecurityAssignmentConsole.Core {
     public class ActionScheduler {
 

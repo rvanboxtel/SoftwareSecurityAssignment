@@ -12,7 +12,7 @@ namespace SoftwareSecurityAssignmentConsole.Core
     using System;
     using System.Collections.Generic;
     using System.ComponentModel;
-    using Models;
+    using SoftwareSecurtityAssignmentConsole.Models;
 
     /// <summary>
     ///     The state engine.
